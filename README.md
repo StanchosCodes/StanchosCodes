@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stanislav Stamatov
-- 👀 I’m interested in C# and more
+- 👀 I’m interested in .NET, WEB Dev, Desktop Dev and more
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: Stanislav.Stamatov45@abv.bg
 
