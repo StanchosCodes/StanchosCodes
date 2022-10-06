@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanislav Stamatov
 - 👀 I’m interested in .NET, WEB Dev, Desktop Dev and more
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Javascript
 - 📫 How to reach me: Stanislav.Stamatov45@abv.bg
 
 <!---
