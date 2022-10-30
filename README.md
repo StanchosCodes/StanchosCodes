@@ -14,26 +14,16 @@ You can click the Preview link to take a look at your changes.
 
 <b>Ways to connect with me:</b>
 
-[![LinkedIn][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: https://i.imgur.com/P3YfQoD.png (LinkedIn)
-[2.1]: https://i.imgur.com/P3YfQoD.png (Facebook)
-
-[1]: https://www.linkedin.com/in/stanislav-stamatov-402647255
-[2]: https://www.facebook.com/Stanislav.Stamatov45
-
-
 <picture>
   <a href="https://www.linkedin.com/in/stanislav-stamatov-402647255">
-  <img src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", width = "32",
+  <img alt = "LinkedIn", src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", width = "32",
   height = "32">
   </a>
 </picture>
 
 <picture>
   <a href="https://www.facebook.com/Stanislav.Stamatov45">
-  <img src = "https://cdn-icons-png.flaticon.com/512/733/733547.png?w=740&t=st=1667138113~exp=1667138713~hmac=12ba4aab969c1216e5c204b56f95640c5794b6e2b58170118b0b92adc1c58ffd", width = "32",
+  <img alt = "Facebook", src = "https://cdn-icons-png.flaticon.com/512/733/733547.png?w=740&t=st=1667138113~exp=1667138713~hmac=12ba4aab969c1216e5c204b56f95640c5794b6e2b58170118b0b92adc1c58ffd", width = "32",
   height = "32">
   </a>
 </picture>
