@@ -12,8 +12,12 @@ You can click the Preview link to take a look at your changes.
 [![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanchosCodes)](https://github.com/StanchosCodes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanchosCodes&layout=compact)](https://github.com/StanchosCodes/github-readme-stats)
 
+#Ways to connect with me:
+[![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-[2.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/120px-LinkedIn_logo_initials.png?20140125013055 (facebook icon with padding)
+[1.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
+[1]: https://www.linkedin.com/in/stanislav-stamatov-402647255
 [2]: https://www.facebook.com/Stanislav.Stamatov45
