@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![alt text][2.1]][2]
 
-[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[2.1]: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/120px-LinkedIn_logo_initials.png?20140125013055 (facebook icon with padding)
 
 [2]: https://www.facebook.com/Stanislav.Stamatov45
