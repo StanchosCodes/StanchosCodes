@@ -29,7 +29,9 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", width = "32",
   height = "32">
   </a>
-  
+</picture>
+
+<picture>
   <a href="https://www.facebook.com/Stanislav.Stamatov45">
   <img src = "https://img.icons8.com/color/452/facebook.png", width = "32",
   height = "32">
