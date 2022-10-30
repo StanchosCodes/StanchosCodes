@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Stanislav Stamatov
 - 👀 I’m interested in .NET, WEB Dev, Desktop Dev and more
 - 🌱 I’m currently learning C# and Javascript
-- 📫 How to reach me: Stanislav.Stamatov45@abv.bg
+- 📫 How to reach me: Stanislav.Stamatov45@abv.bg or StanislavStamatov45@gmail.com
 
 <!---
 StanchosCodes/StanchosCodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
