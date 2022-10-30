@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![alt text][2.1]][2]
 
-[2.1]: https://camo.githubusercontent.com/0b72c34715ccd2c5f0e818a3c0ddce7545a948e832a9225a0c9fb3390d66953b/68747470733a2f2f736f6369616c697a652d6d642e76657263656c2e6170702f6170692f62616467652f6c696e6b6564696e (facebook icon with padding)
+[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 [2]: https://www.facebook.com/Stanislav.Stamatov45
