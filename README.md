@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanchosCodes&layout=compact)](https://github.com/StanchosCodes/github-readme-stats)
 
 <b> Ways to connect with me: </b>
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
