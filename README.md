@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 <picture>
   <a href="https://www.facebook.com/Stanislav.Stamatov45">
-  <img src = "https://img.icons8.com/color/452/facebook.png", width = "40",
-  height = "36">
+  <img src = "https://cdn-icons-png.flaticon.com/512/733/733547.png?w=740&t=st=1667138113~exp=1667138713~hmac=12ba4aab969c1216e5c204b56f95640c5794b6e2b58170118b0b92adc1c58ffd", width = "32",
+  height = "32">
   </a>
 </picture>
