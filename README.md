@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 <b>Ways to connect with me:</b>
 
 [![LinkedIn][1.1]][1]
-[![Facebook][2.1]][2]
+[![alt text][2.1]][2]
 
-[1.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: https://i.imgur.com/P3YfQoD.png (LinkedIn)
+[2.1]: https://i.imgur.com/P3YfQoD.png (Facebook)
 
 [1]: https://www.linkedin.com/in/stanislav-stamatov-402647255
 [2]: https://www.facebook.com/Stanislav.Stamatov45
