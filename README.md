@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![alt text][2.1]][2]
 
-[2.1]: https://pngimg.com/uploads/linkedIn/linkedIn_PNG39.png (facebook icon with padding)
+[2.1]: https://img.icons8.com/color/452/linkedin-2--v1.png (facebook icon with padding)
 
 [2]: https://www.facebook.com/Stanislav.Stamatov45
