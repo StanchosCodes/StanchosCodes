@@ -24,4 +24,6 @@ You can click the Preview link to take a look at your changes.
 [2]: https://www.facebook.com/Stanislav.Stamatov45
 
 
-<img src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", size = 32>
+<picture>
+  <img src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", size = 32>
+  </picture>
