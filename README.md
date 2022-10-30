@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <b>Ways to connect with me:</b>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
+[![LinkedIn][1.1]][1]
+[![Facebook][2.1]][2]
 
 [1.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 [2.1]: https://i.imgur.com/P3YfQoD.png (facebook icon with padding)
