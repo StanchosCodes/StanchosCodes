@@ -25,6 +25,8 @@ You can click the Preview link to take a look at your changes.
 
 
 <picture>
+  <a href="https://www.linkedin.com/in/stanislav-stamatov-402647255">
   <img src = "https://www.iconninja.com/files/785/628/39/linkedin-icon.png", width = "32",
   height = "32">
-  </picture>
+  </a>
+</picture>
