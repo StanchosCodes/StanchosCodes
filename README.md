@@ -11,4 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 [![Stanislav's GitHub stats](https://github-readme-stats.vercel.app/api?username=StanchosCodes)](https://github.com/StanchosCodes/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanchosCodes&layout=compact)](https://github.com/StanchosCodes/github-readme-stats)
-[!instagram]
+
+[![alt text][2.1]][2]
+
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[2]: https://www.facebook.com/Stanislav.Stamatov45
