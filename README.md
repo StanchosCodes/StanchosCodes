@@ -14,6 +14,6 @@ You can click the Preview link to take a look at your changes.
 
 [![alt text][2.1]][2]
 
-[2.1]: https://cdn.iconscout.com/icon/free/png-64/linkedin-66-432522.png (facebook icon with padding)
+[2.1]: https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg (facebook icon with padding)
 
 [2]: https://www.facebook.com/Stanislav.Stamatov45
