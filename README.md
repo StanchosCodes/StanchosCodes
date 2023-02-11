@@ -1,7 +1,7 @@
 ![GitHub Views](https://komarev.com/ghpvc/?username=StanchosCodes)
 - 👋 Hi, I’m Stanislav Stamatov
 - 👀 I’m interested in .NET, WEB, Desktop, FrontEnd, BackEnd and more.
-- 🌱 I’m currently learning C#, Javascript, MS SQL, HTML and CSS.
+- 🌱 I’m currently learning C#, Javascript, MS SQL, Entity Framework, HTML and CSS.
 - 📫 How to reach me: StanislavStamatov45@gmail.com or Stanislav.Stamatov45@abv.bg
 
 <!---
